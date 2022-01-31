@@ -12,7 +12,7 @@
 ```
 
 **Cybersécurité, développement informatique & cryptomonnaies** 🦇
-<br>
+<br><br>
 Mon site : https://portfolio-corentin.fr/index
 <br><br>
 🐍 Langages de prédilection : Python
