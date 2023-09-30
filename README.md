@@ -11,17 +11,13 @@
 ░                                                                    
 ```
 
-**Cybersécurité, développement informatique & cryptomonnaies** 🦇
-<br><br>
-Mon site : https://portfolio-corentin.fr/index
-<br><br>
+**Cybersécurité, développement informatique &** 🦇
+
 🐍 Langages de prédilection : Python
 
 📍 Pontoise
 
-📚 ESIEE-IT - BTS SIO SLAM
-
-📋 Projets en cours : Text Adventure, Easyline
+📚 ESIEE-IT - Master Cybersecurity
 
 🕸 Skills : Python, HTML, CSS, Java
 
